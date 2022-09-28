@@ -93,7 +93,7 @@ main{
 @media (max-width: 986px){
 
     .hero-container{
-        padding-top: 150px;
+        padding-top: 100px;
     }
 
     .hero-column{
@@ -102,25 +102,27 @@ main{
     }
     .hero-text{  
         height: 500px;
-        margin-left: 50px;
-        width: 200px;
+        padding: 0 20px 0 0;
+        width: 100%;
     }
     .hero-text h1{
-        font-size: 2.2rem;
+        font-size: 1.7rem;
     }
     .hero-text p{
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         padding: 0;
-        margin: 20px 0 20px 0;
+        margin: 15px 0 15px 0;
     }
     .hero-text a{
-        font-size: 0.8rem;
+        font-size: 0.7rem;
+        padding: 10px;
     }
      
     .hero2-img{
         width: 300px;
         height: 300px;
-        margin-left: 50px;
+        margin: 0 0 0 0;
+        
     }
 
 
